@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.27.0](https://github.com/williamboman/mason-lspconfig.nvim/compare/v1.26.0...v1.27.0) (2024-01-14)
+
+
+### Features
+
+* add lwc language server ([#346](https://github.com/williamboman/mason-lspconfig.nvim/issues/346)) ([8831e43](https://github.com/williamboman/mason-lspconfig.nvim/commit/8831e43da8811d17e1694761cf5a2e7571e0cd71))
+
 ## [1.26.0](https://github.com/williamboman/mason-lspconfig.nvim/compare/v1.25.0...v1.26.0) (2023-12-21)
 
 
